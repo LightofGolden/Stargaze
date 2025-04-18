@@ -1,5 +1,5 @@
 # Stargaze
-Stargaze is an IDE made for phones and tablets, with lightweight but powerful compilers and extensions. Coming soon
+Stargaze is an IDE made for phones and tablets, with lightweight but powerful compilers and extensions. **Coming soon**
 # License
 This project is licensed under the <a href="https://github.com/LightofGolden/Stargaze?tab=GPL-3.0-1-ov-file"> GNU General Public License v3.0. (GPL-3.0) </a> 
 <br>
